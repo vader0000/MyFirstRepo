@@ -3,6 +3,8 @@
 void main() {
 
   printf("Hello Vader");
+
   printf(" C");
+  printf(" D");
 
 }
